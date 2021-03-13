@@ -10,7 +10,8 @@ Ugurcan Demir
 Also have some support for animation and interaction -- drag things around, drag a line to draw, use a slider or a button to change things on the screen.
 
 # The application idea : 
-  I made a simple app that you can draw and clear the canvas. There is also undo button that you can clear your last movements.
+
+  I made a simple app that you can add and delete item from your list. You can slide the row to delete your items from the list
  
   
 # GIF
