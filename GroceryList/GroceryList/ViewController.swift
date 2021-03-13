@@ -28,7 +28,6 @@ class ViewController: UIViewController {
             tableView.beginUpdates()
             tableView.insertRows(at: [IndexPath(row: 0, section: 0)], with: .right)
             tableView.endUpdates()
-            
             txtInput.text = nil
         }
     }
