@@ -60,8 +60,6 @@ extension ViewController: UITableViewDelegate, UITableViewDataSource {
             tableView.deleteRows(at: [indexPath], with: .fade)
             tableView.endUpdates()
 
-
-            
         }
     }
 }
